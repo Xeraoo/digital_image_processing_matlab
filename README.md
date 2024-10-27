@@ -6,11 +6,8 @@ This repository contains various MATLAB scripts for digital image processing tas
 
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Getting Started](#getting-started)
-4. [Scripts Overview](#scripts-overview)
-5. [Usage](#usage)
-6. [Examples](#examples)
-7. [License](#license)
+3. [Usage](#usage)
+4. [Examples](#examples)
 
 ## Introduction
 
